@@ -2,13 +2,15 @@
 
 Security engineer focused on Web3 product security, protocol review, and security automation.
 
-Former Blockchain Security Consultant at Trail of Bits. I review production Solidity/EVM systems, build audit and invariant-testing workflows, and develop tools that make security findings easier to detect, explain, and prevent.
+I help teams secure protocol and product changes from design through deployment: threat models, invariant and fuzz testing, CI security gates, review heuristics, monitoring/runbooks, and remediation guidance.
+
+Former Blockchain Security Consultant at Trail of Bits. My public review work includes Franklin Templeton, Immutable zkEVM Bridge, Seaport, Maple Finance V2, LooksRare, Arcade.xyz, MYSO v2, Primitive Hyper, and a Code4rena high-severity finding in Stader.
 
 ## Focus areas
 
-- Smart contract and protocol security: Solidity, EVM, DeFi accounting, access control, upgradeability, oracle assumptions, invariants
+- Protocol security: Solidity, EVM, DeFi accounting, access control, oracle assumptions, upgradeability, governance/signer risk
 - Product security engineering: threat modeling, CI security checks, monitoring rules, incident runbooks, privileged-role hardening
-- Security automation: fuzzing, property testing, static analysis, audit notebooks, graph-based code review, AI-assisted review workflows
+- Security automation: fuzzing, invariant testing, static analysis, audit notebooks, graph-based review, AI-assisted review workflows
 - AI security: RAG hygiene, prompt-injection-aware pipelines, audit-drift detection, human-in-the-loop review
 
 ## Selected public security review work
